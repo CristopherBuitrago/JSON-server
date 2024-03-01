@@ -1,295 +1,191 @@
-{
-  "users": [
-    {
-      "id": "1",
-      "name": "Leanne Graham",
-      "username": "Bret",
-      "email": "Sincere@april.biz",
-      "address": {
-        "street": "Kulas Light",
-        "suite": "Apt. 556",
-        "city": "Gwenborough",
-        "zipcode": "92998-3874",
-        "geo": {
-          "lat": "-37.3159",
-          "lng": "81.1496"
-        }
+  {
+    "periodos": [
+      {
+        "id": 1,
+        "codigo": "P24-01",
+        "ano": 2024,
+        "semestre": 1
+      }
+    ],
+    "programas": [
+      {
+        "id": 1,
+        "nombre": "Ingeniería de Sistemas",
+        "nivel": "Pregrado"
       },
-      "phone": "1-770-736-8031 x56442",
-      "website": "hildegard.org",
-      "company": {
-        "name": "Romaguera-Crona",
-        "catchPhrase": "Multi-layered client-server neural-net",
-        "bs": "harness real-time e-markets"
+      {
+        "id": 2,
+        "nombre": "Ingeniería de Mecatronica",
+        "nivel": "Pregrado"
       }
-    },
-    {
-      "id": "2",
-      "name": "Ervin Howell",
-      "username": "Antonette",
-      "email": "Shanna@melissa.tv",
-      "address": {
-        "street": "Victor Plains",
-        "suite": "Suite 879",
-        "city": "Wisokyburgh",
-        "zipcode": "90566-7771",
-        "geo": {
-          "lat": "-43.9509",
-          "lng": "-34.4618"
-        }
+    ],
+    "tarifas": [
+      {
+        "id": 1,
+        "costo_credito": 1000,
+        "periodo_id": 1,
+        "programa_id": 1
       },
-      "phone": "010-692-6593 x09125",
-      "website": "anastasia.net",
-      "company": {
-        "name": "Deckow-Crist",
-        "catchPhrase": "Proactive didactic contingency",
-        "bs": "synergize scalable supply-chains"
+      {
+        "id": 2,
+        "costo_credito": 1100,
+        "periodo_id": 1,
+        "programa_id": 2
       }
-    },
-    {
-      "id": "3",
-      "name": "Clementine Bauch",
-      "username": "Samantha",
-      "email": "Nathan@yesenia.net",
-      "address": {
-        "street": "Douglas Extension",
-        "suite": "Suite 847",
-        "city": "McKenziehaven",
-        "zipcode": "59590-4157",
-        "geo": {
-          "lat": "-68.6102",
-          "lng": "-47.0653"
-        }
+    ],
+    "departamentos": [
+      {
+        "id": 1,
+        "nombre": "Departamento de Informática"
       },
-      "phone": "1-463-123-4447",
-      "website": "ramiro.info",
-      "company": {
-        "name": "Romaguera-Jacobson",
-        "catchPhrase": "Face to face bifurcated interface",
-        "bs": "e-enable strategic applications"
-      }
-    },
-    {
-      "id": "4",
-      "name": "Patricia Lebsack",
-      "username": "Karianne",
-      "email": "Julianne.OConner@kory.org",
-      "address": {
-        "street": "Hoeger Mall",
-        "suite": "Apt. 692",
-        "city": "South Elvis",
-        "zipcode": "53919-4257",
-        "geo": {
-          "lat": "29.4572",
-          "lng": "-164.2990"
-        }
+      {
+        "id": 2,
+        "nombre": "Departamento de Matemáticas"
       },
-      "phone": "493-170-9623 x156",
-      "website": "kale.biz",
-      "company": {
-        "name": "Robel-Corkery",
-        "catchPhrase": "Multi-tiered zero tolerance productivity",
-        "bs": "transition cutting-edge web services"
-      }
-    },
-    {
-      "id": "5",
-      "name": "Chelsey Dietrich",
-      "username": "Kamren",
-      "email": "Lucio_Hettinger@annie.ca",
-      "address": {
-        "street": "Skiles Walks",
-        "suite": "Suite 351",
-        "city": "Roscoeview",
-        "zipcode": "33263",
-        "geo": {
-          "lat": "-31.8129",
-          "lng": "62.5342"
-        }
+      {
+        "id": 3,
+        "nombre": "Departamento de Ingeniería Eléctrica"
       },
-      "phone": "(254)954-1289",
-      "website": "demarco.info",
-      "company": {
-        "name": "Keebler LLC",
-        "catchPhrase": "User-centric fault-tolerant solution",
-        "bs": "revolutionize end-to-end systems"
-      }
-    },
-    {
-      "id": "6",
-      "name": "Mrs. Dennis Schulist",
-      "username": "Leopoldo_Corkery",
-      "email": "Karley_Dach@jasper.info",
-      "address": {
-        "street": "Norberto Crossing",
-        "suite": "Apt. 950",
-        "city": "South Christy",
-        "zipcode": "23505-1337",
-        "geo": {
-          "lat": "-71.4197",
-          "lng": "71.7478"
-        }
+      {
+        "id": 4,
+        "nombre": "Departamento de Literatura"
       },
-      "phone": "1-477-935-8478 x6430",
-      "website": "ola.org",
-      "company": {
-        "name": "Considine-Lockman",
-        "catchPhrase": "Synchronised bottom-line interface",
-        "bs": "e-enable innovative applications"
+      {
+        "id": 5,
+        "nombre": "Departamento de Historia"
       }
-    },
-    {
-      "id": "7",
-      "name": "Kurtis Weissnat",
-      "username": "Elwyn.Skiles",
-      "email": "Telly.Hoeger@billy.biz",
-      "address": {
-        "street": "Rex Trail",
-        "suite": "Suite 280",
-        "city": "Howemouth",
-        "zipcode": "58804-1099",
-        "geo": {
-          "lat": "24.8918",
-          "lng": "21.8984"
-        }
+    ],
+    "profesores": [
+      {
+        "id": 1,
+        "tipo_documento": "CC",
+        "numero_documetno": "13788555",
+        "nombre": "Juan",
+        "apellido": "Pérez",
+        "departamento_id": 1
       },
-      "phone": "210.067.6132",
-      "website": "elvis.io",
-      "company": {
-        "name": "Johns Group",
-        "catchPhrase": "Configurable multimedia task-force",
-        "bs": "generate enterprise e-tailers"
+      {
+        "id": 2,
+        "tipo_documento": "CC",
+        "numero_documetno": "137880000",
+        "nombre": "María",
+        "apellido": "Gómez",
+        "departamento_id": 2
       }
-    },
-    {
-      "id": "8",
-      "name": "Nicholas Runolfsdottir V",
-      "username": "Maxime_Nienow",
-      "email": "Sherwood@rosamond.me",
-      "address": {
-        "street": "Ellsworth Summit",
-        "suite": "Suite 729",
-        "city": "Aliyaview",
-        "zipcode": "45169",
-        "geo": {
-          "lat": "-14.3990",
-          "lng": "-120.7677"
-        }
+    ],
+    "alumnos": [
+      {
+        "id": 1,
+        "nombre": "Carlos",
+        "apellido": "Rodríguez",
+        "tipo_documento": "Cédula",
+        "numero_documento": "123456789",
+        "ciudad_residencia": "Bogotá",
+        "direccion": "Calle 123",
+        "telefono": "1234567890",
+        "fecha_nacimiento": "1990-01-01",
+        "sexo": "Masculino",
+        "programa_id": 1
       },
-      "phone": "586.493.6943 x140",
-      "website": "jacynthe.com",
-      "company": {
-        "name": "Abernathy Group",
-        "catchPhrase": "Implemented secondary concept",
-        "bs": "e-enable extensible e-tailers"
+      {
+        "id": 2,
+        "nombre": "Ana",
+        "apellido": "Martínez",
+        "tipo_documento": "Cédula de Extranjería",
+        "numero_documento": "987654321",
+        "ciudad_residencia": "Medellín",
+        "direccion": "Carrera 456",
+        "telefono": "0987654321",
+        "fecha_nacimiento": "1992-05-15",
+        "sexo": "Femenino",
+        "programa_id": 2
       }
-    },
-    {
-      "id": "9",
-      "name": "Glenna Reichert",
-      "username": "Delphine",
-      "email": "Chaim_McDermott@dana.io",
-      "address": {
-        "street": "Dayna Park",
-        "suite": "Suite 449",
-        "city": "Bartholomebury",
-        "zipcode": "76495-3109",
-        "geo": {
-          "lat": "24.6463",
-          "lng": "-168.8889"
-        }
+    ],
+    "cursos": [
+      {
+        "id": 1,
+        "nombre": "Programación Avanzada",
+        "codigo": "PROG-AVA",
+        "guia_catedra": "URL_Guia_Catedra.pdf"
       },
-      "phone": "(775)976-6794 x41206",
-      "website": "conrad.com",
-      "company": {
-        "name": "Yost and Sons",
-        "catchPhrase": "Switchable contextually-based project",
-        "bs": "aggregate real-time technologies"
+      {
+        "id": 2,
+        "nombre": "Álgebra Lineal",
+        "codigo": "ALG-LI",
+        "guia_catedra": "URL_Guia_Catedra.pdf"
       }
-    },
-    {
-      "id": "10",
-      "name": "Clementina DuBuque",
-      "username": "Moriah.Stanton",
-      "email": "Rey.Padberg@karina.biz",
-      "address": {
-        "street": "Kattie Turnpike",
-        "suite": "Suite 198",
-        "city": "Lebsackbury",
-        "zipcode": "31428-2261",
-        "geo": {
-          "lat": "-38.2386",
-          "lng": "57.2232"
-        }
+    ],
+    "salones": [
+      {
+        "id": 1,
+        "capacidad_alumnos": 30,
+        "edificio": "Edificio A",
+        "piso": 2,
+        "numero_identificacion": "S001"
+      }
+    ],
+    "asignaturas": [
+      {
+        "id": 1,
+        "curso_id": 1,
+        "codigo": "PROG-AVA-PER-2024",
+        "creditos": 4,
+        "profesor_id": 1,
+        "cupos_disponibles": 20,
+        "programa_id": 1,
+        "horario_clases": [
+          {
+            "dia": "Lunes",
+            "hora_inicio": "08:00",
+            "hora_fin": "10:00",
+            "salon_id": 1
+          },
+          {
+            "dia": "Martes",
+            "hora_inicio": "08:00",
+            "hora_fin": "10:00",
+            "salon_id": 1
+          }
+        ]
       },
-      "phone": "024-648-3804",
-      "website": "ambrose.net",
-      "company": {
-        "name": "Hoeger LLC",
-        "catchPhrase": "Centralized empowering task-force",
-        "bs": "target end-to-end models"
+      {
+        "id": 2,
+        "curso_id": 2,
+        "codigo": "ALG-LI-PER-2024",
+        "creditos": 3,
+        "profesor_id": 2,
+        "cupos_disponibles": 15,
+        "programa_id": 2,
+        "horario_clases": [
+          {
+            "dia": "Lunes",
+            "hora_inicio": "10:00",
+            "hora_fin": "12:00",
+            "salon_id": 1
+          },
+          {
+            "dia": "Jueves",
+            "hora_inicio": "10:00",
+            "hora_fin": "12:00",
+            "salon_id": 1
+          }
+        ]
       }
-    },
-    {
-      "id": "3fd9"
-    },
-    {
-      "id": "b49e"
-    },
-    {
-      "id": "2782",
-      "name": "Cristopher Buitrago",
-      "username": "Chulo",
-      "email": "Chulo@gmail.com",
-      "address": {
-        "street": "Kulas Light",
-        "suite": "Apt. 556",
-        "city": "Gwenborough",
-        "zipcode": "92998-3874",
-        "geo": {
-          "lat": "-37.3159",
-          "lng": "81.1496"
-        }
+    ],
+    "matriculas": [
+      {
+        "id": 1,
+        "estudiante_id": 1,
+        "asignatura_id": 1,
+        "periodo_id": 1,
+        "precio": 4000
       },
-      "phone": "1-770-736-8031 x56442",
-      "website": "hildegard.org",
-      "company": {
-        "name": "Romaguera-Crona",
-        "catchPhrase": "Multi-layered client-server neural-net",
-        "bs": "harness real-time e-markets"
+      {
+        "id": 1,
+        "estudiante_id": 1,
+        "asignatura_id": 2,
+        "periodo_id": 1,
+        "precio": 3300
       }
-    },
-    {
-      "id": 11,
-      "name": "Kimberlyn Vanessa",
-      "username": "BrKymvaBuet",
-      "email": "Sincere@april.biz",
-      "address": {
-        "street": "Kulas Light",
-        "suite": "Apt. 556",
-        "city": "Gwenborough",
-        "zipcode": "92998-3874",
-        "geo": {
-          "lat": "-37.3159",
-          "lng": "81.1496"
-        }
-      }
-    },
-    {
-      "id": "9609",
-      "name": "Kimberlyn Vanessa",
-      "username": "BrKymvaBuet",
-      "email": "Sincere@april.biz",
-      "address": {
-        "street": "Kulas Light",
-        "suite": "Apt. 556",
-        "city": "Gwenborough",
-        "zipcode": "92998-3874",
-        "geo": {
-          "lat": "-37.3159",
-          "lng": "81.1496"
-        }
-      }
-    }
-  ]
-}
+    ]
+  }
