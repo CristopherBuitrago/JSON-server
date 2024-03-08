@@ -451,7 +451,7 @@
       "departamento_id": 2
     },
     {
-      "id": 31,
+      "id": "31",
       "nombre": "Whisnathun Ludwing Van Fragelium",
       "apellido": "Os Santiti Vengho",
       "tipo_documento": "C.C",
@@ -459,7 +459,7 @@
       "departamento_id": "Departamento de Historia"
     },
     {
-      "id": 32,
+      "id": "32",
       "nombre": "Abraham",
       "apellido": "Lincon",
       "tipo_documento": "C.E",
@@ -467,7 +467,7 @@
       "departamento_id": "Departamento de Historia"
     },
     {
-      "id": 33,
+      "id": "33",
       "nombre": "Joliko Holiname",
       "apellido": "Iopes Fredloiz",
       "tipo_documento": "T.I",
@@ -1453,7 +1453,7 @@
   ],
   "asignaturas": [
     {
-      "id": 1,
+      "id": "1",
       "curso_id": 13,
       "codigo": "BAS-DAT-P24-01",
       "periodo_id": 1,
@@ -1467,6 +1467,24 @@
           "hora_inicio": "06:00",
           "hora_fin": "12:00",
           "salon_id": "S002"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "curso_id": 18,
+      "codigo": "FIS-CLA-P24-01",
+      "periodo_id": 1,
+      "creditos": "4",
+      "profesor_id": 19,
+      "cupos_disponibles": 20,
+      "programa_id": 1,
+      "horario_clases": [
+        {
+          "dia": "Lunes",
+          "hora_inicio": "08:05",
+          "hora_fin": "10:05",
+          "salon_id": "S003"
         }
       ]
     }
