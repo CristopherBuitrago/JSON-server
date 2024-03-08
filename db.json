@@ -1471,7 +1471,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "2",
       "curso_id": 18,
       "codigo": "FIS-CLA-P24-01",
       "periodo_id": 1,
@@ -1491,210 +1491,210 @@
   ],
   "matriculas": [
     {
-      "id": "1",
+      "id": 1,
       "estudiante_id": 1,
       "asignatura_id": 1,
       "periodo_id": 1,
       "precio": 4000
     },
     {
-      "id": "2",
+      "id": 2,
       "estudiante_id": 2,
       "asignatura_id": 2,
       "periodo_id": 1,
       "precio": 3300
     },
     {
-      "id": "3",
+      "id": 3,
       "estudiante_id": 3,
       "asignatura_id": 3,
       "periodo_id": 1,
       "precio": 3700
     },
     {
-      "id": "4",
+      "id": 4,
       "estudiante_id": 4,
       "asignatura_id": 4,
       "periodo_id": 1,
       "precio": 4200
     },
     {
-      "id": "5",
+      "id": 5,
       "estudiante_id": 5,
       "asignatura_id": 5,
       "periodo_id": 1,
       "precio": 3900
     },
     {
-      "id": "6",
+      "id": 6,
       "estudiante_id": 6,
       "asignatura_id": 6,
       "periodo_id": 1,
       "precio": 3800
     },
     {
-      "id": "7",
+      "id": 7,
       "estudiante_id": 7,
       "asignatura_id": 7,
       "periodo_id": 1,
       "precio": 4100
     },
     {
-      "id": "8",
+      "id": 8,
       "estudiante_id": 8,
       "asignatura_id": 8,
       "periodo_id": 1,
       "precio": 3500
     },
     {
-      "id": "9",
+      "id": 9,
       "estudiante_id": 9,
       "asignatura_id": 9,
       "periodo_id": 1,
       "precio": 3700
     },
     {
-      "id": "10",
+      "id": 10,
       "estudiante_id": 10,
       "asignatura_id": 10,
       "periodo_id": 1,
       "precio": 3900
     },
     {
-      "id": "11",
+      "id": 11,
       "estudiante_id": 11,
       "asignatura_id": 11,
       "periodo_id": 1,
       "precio": 4000
     },
     {
-      "id": "12",
+      "id": 12,
       "estudiante_id": 12,
       "asignatura_id": 12,
       "periodo_id": 1,
       "precio": 3300
     },
     {
-      "id": "13",
+      "id": 13,
       "estudiante_id": 13,
       "asignatura_id": 13,
       "periodo_id": 1,
       "precio": 3700
     },
     {
-      "id": "14",
+      "id": 14,
       "estudiante_id": 14,
       "asignatura_id": 14,
       "periodo_id": 1,
       "precio": 4200
     },
     {
-      "id": "15",
+      "id": 15,
       "estudiante_id": 15,
       "asignatura_id": 15,
       "periodo_id": 1,
       "precio": 3900
     },
     {
-      "id": "16",
+      "id": 16,
       "estudiante_id": 16,
       "asignatura_id": 16,
       "periodo_id": 1,
       "precio": 3800
     },
     {
-      "id": "17",
+      "id": 17,
       "estudiante_id": 17,
       "asignatura_id": 17,
       "periodo_id": 1,
       "precio": 4100
     },
     {
-      "id": "18",
+      "id": 18,
       "estudiante_id": 18,
       "asignatura_id": 18,
       "periodo_id": 1,
       "precio": 3500
     },
     {
-      "id": "19",
+      "id": 19,
       "estudiante_id": 19,
       "asignatura_id": 19,
       "periodo_id": 1,
       "precio": 3700
     },
     {
-      "id": "20",
+      "id": 20,
       "estudiante_id": 20,
       "asignatura_id": 20,
       "periodo_id": 1,
       "precio": 3900
     },
     {
-      "id": "21",
+      "id": 21,
       "estudiante_id": 21,
       "asignatura_id": 1,
       "periodo_id": 2,
       "precio": 4000
     },
     {
-      "id": "22",
+      "id": 22,
       "estudiante_id": 22,
       "asignatura_id": 2,
       "periodo_id": 2,
       "precio": 3300
     },
     {
-      "id": "23",
+      "id": 23,
       "estudiante_id": 23,
       "asignatura_id": 3,
       "periodo_id": 2,
       "precio": 3700
     },
     {
-      "id": "24",
+      "id": 24,
       "estudiante_id": 24,
       "asignatura_id": 4,
       "periodo_id": 2,
       "precio": 4200
     },
     {
-      "id": "25",
+      "id": 25,
       "estudiante_id": 25,
       "asignatura_id": 5,
       "periodo_id": 2,
       "precio": 3900
     },
     {
-      "id": "26",
+      "id": 26,
       "estudiante_id": 26,
       "asignatura_id": 6,
       "periodo_id": 2,
       "precio": 3800
     },
     {
-      "id": "27",
+      "id": 27,
       "estudiante_id": 27,
       "asignatura_id": 7,
       "periodo_id": 2,
       "precio": 4100
     },
     {
-      "id": "28",
+      "id": 28,
       "estudiante_id": 28,
       "asignatura_id": 8,
       "periodo_id": 2,
       "precio": 3500
     },
     {
-      "id": "29",
+      "id": 29,
       "estudiante_id": 29,
       "asignatura_id": 9,
       "periodo_id": 2,
       "precio": 3700
     },
     {
-      "id": "30",
+      "id": 30,
       "estudiante_id": 30,
       "asignatura_id": 10,
       "periodo_id": 2,
