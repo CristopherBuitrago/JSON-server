@@ -1,4 +1,3 @@
 # JSON-server
 
-Este proyecto funciona de la mano con otro repositorio que se llama `JSON-server`
-Allí está la base de datos
+Esta es la base de datos que va de la mano con `proyecto_javascript`
