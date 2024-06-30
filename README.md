@@ -1,3 +1,3 @@
 # JSON-server
 
-Esta es la base de datos que va de la mano con `proyecto_javascript`
+Database of the page `The_University`
